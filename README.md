@@ -1,9 +1,10 @@
 
-[![](https://static.zerochan.net/Rinoa.Heartilly.full.3535389.gif)]()
+<!-- [![](https://static.zerochan.net/Rinoa.Heartilly.full.3535389.gif)]() -->
 
 
 ### Hi there 👋
 
+<a href="https://www.linkedin.com/in/cdifilippo" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!--
 **cadifilippo/cadifilippo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
