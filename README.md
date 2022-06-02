@@ -1,5 +1,5 @@
 
-[![Social banner for jh3y](https://static.zerochan.net/Rinoa.Heartilly.full.3535389.gif)]()
+[![](https://static.zerochan.net/Rinoa.Heartilly.full.3535389.gif)]()
 
 
 ### Hi there 👋
