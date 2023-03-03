@@ -49,15 +49,3 @@ I'm a developer with a passion for building great products. I have experience in
 </picture>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cadifilippo&theme=blue-green)
-
-## 💻 My most used commands
-
-| Alias    | Command           | Description                      |
-| -------- | ----------------- | -------------------------------- |
-| `gaa`    | `git add .`       | Add files to staging             |
-| `gcam`   | `git commit -am`  | Commit changes                   |
-| `ggpull` | `git pull origin` | Pull changes from remote branch  |
-| `ggpush` | `git push origin` | Push changes to remote branch    |
-| `gco`    | `git checkout`    | Checkout a branch                |
-| `gcb`    | `git checkout -b` | Create a new branch and checkout |
-| `sp`     | `spotify pause`   | Play/Pause Spotify               |
