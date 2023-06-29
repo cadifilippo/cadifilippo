@@ -36,16 +36,16 @@ I'm a developer with a passion for building great products. I have experience in
 
 ## 📈 My GitHub Stats
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=cadifilippo&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=cadifilippo&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=cadifilippo&show_icons=true" />
-</picture>
+[//]: <picture>
+[//]: <source 
+[//]:   srcset="https://github-readme-stats.vercel.app/api?username=cadifilippo&show_icons=true&theme=dark"
+[//]:   media="(prefers-color-scheme: dark)"
+[//]: />
+[//]: <source
+[//]:   srcset="https://github-readme-stats.vercel.app/api?username=cadifilippo&show_icons=true"
+[//]:   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+[//]: />
+[//]: <img src="https://github-readme-stats.vercel.app/api?username=cadifilippo&show_icons=true" />
+[//]: </picture>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cadifilippo&theme=blue-green)
